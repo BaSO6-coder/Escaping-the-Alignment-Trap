@@ -4,15 +4,18 @@
 [![Status](https://img.shields.io/badge/Status-Under%20Double--Blind%20Review-orange)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 
-> ⚠️ **Notice on Code Release & Anonymity**
+> **⚠️ Note on Anonymity & Code Release**
 >
-> To strictly comply with the KDD double-blind review policy, the full source code, pre-trained PPO agent weights, and HMM-generated scenario datasets are temporarily withheld in this repository. 
+> To strictly comply with the **KDD double-blind review policy**, the full source code (including the MILP oracle and PPO training pipelines) is temporarily withheld in this repository.
 >
-> **The complete codebase (including Grid2Op environments, MILP oracle scripts, and training pipelines) will be open-sourced immediately upon acceptance.**
+> **The complete codebase and datasets will be open-sourced immediately upon acceptance.**
+>
+> Currently, this repository serves to demonstrate the project structure and provide the diagnostic checklists mentioned in the paper.
 
 ---
 
 ## 📖 Overview
+
 
 This repository contains the official implementation plan and diagnostic tools for the paper: **"Escaping the Alignment Trap: Physics-Guided Safe Reinforcement Learning for Power Grid Restoration"**.
 
