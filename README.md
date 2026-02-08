@@ -35,7 +35,8 @@ We propose a **Physics-Guided Diagnostic Framework** that resolves this patholog
 ![Physics-Guided Framework](./figure1.png)
 
 *Figure: The three-stage architecture transferring offline optimization (System 2) to real-time control (System 1).*
-
+![Explain](./Animate.png)
+* Figure: How we deal with the Grid System.
 ---
 
 ## 🧰 Diagnostic Tool: Are You in the Trap?
