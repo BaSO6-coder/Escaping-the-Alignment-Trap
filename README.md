@@ -32,7 +32,7 @@ We propose a **Physics-Guided Diagnostic Framework** that resolves this patholog
 
 ## 🖼️ Framework Architecture
 
-![Physics-Guided Framework](https://via.placeholder.com/800x400.png?text=Upload+Figure+1+or+Figure+8+Here+to+Show+Architecture)
+![Physics-Guided Framework](./figure1.png)
 
 *Figure: The three-stage architecture transferring offline optimization (System 2) to real-time control (System 1).*
 
